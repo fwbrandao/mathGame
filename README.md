@@ -7,4 +7,6 @@ There will be you (avatar) standing at some pilar.
 
 The pilar is about to colapse, you have to jamp to another pilar.
 
-There's 2 (or 3, havent decided yet) pilars in front of you with some numbers.
+There's 2 (or 3, haven't decided yet) pilars in front of you with some numbers.
+
+You have the question 2 + 2 on the screem. 
