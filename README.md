@@ -10,3 +10,7 @@ The pilar is about to colapse, you have to jamp to another pilar.
 There's 2 (or 3, haven't decided yet) pilars in front of you with some numbers.
 
 You have the question 2 + 2 on the screem. 
+
+Pilar 1 shows number 8.
+pilar 2 shows number 5.
+pilar 3 shows number 4.
