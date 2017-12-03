@@ -14,3 +14,5 @@ You have the question 2 + 2 on the screem.
 Pilar 1 shows number 8.
 pilar 2 shows number 5.
 pilar 3 shows number 4.
+
+If you jump to the correct pilar, you are safe.
