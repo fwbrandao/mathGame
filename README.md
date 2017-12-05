@@ -16,4 +16,4 @@ pilar 2 shows number 5.
 pilar 3 shows number 4.
 
 If you jump to the correct pilar, you are safe.
-If you jump to the whrong pilar, it crumples and you drop in a big dark hole.
+If you jump to the wrong pilar, it crumples and you drop in a big dark hole.
