@@ -18,4 +18,4 @@ pilar 3 shows number 4.
 If you jump to the correct pilar, you are safe.
 If you jump to the wrong pilar, it crumples and you drop in a big dark hole.
 
-Every corret answer will lead them to next level and grant them a star.
+Every corret answer will lead them to next level and grant them a star...
